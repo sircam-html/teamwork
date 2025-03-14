@@ -1,4 +1,4 @@
 # TeamWork Website
-Minimalistic [website](https://sircam-html.github.io/teamwork/) for representation purpose.
+Minimalistic profile [website](https://sircam-html.github.io/teamwork/) for representation purpose.
 
 
