@@ -1,1 +1,1 @@
-Web management staff [Website](https://sircam-html.github.io/teamwork/)
+Web management staff [website](https://sircam-html.github.io/teamwork/)
