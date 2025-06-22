@@ -1,1 +1,1 @@
-- Web profile for management staff.
+- Profile for web management staff.
