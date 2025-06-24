@@ -1,2 +1,2 @@
 ## Landing page
-- Web profile for a small [website](https://teamwork-staff.pages.dev/) management staff.
+- Small [web-profile](https://teamwork-staff.pages.dev/) for a web management staff.
