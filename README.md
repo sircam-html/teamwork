@@ -1,2 +1,2 @@
 ## Landing page
-- Web profile for an small website management staff.
+- Web profile for a small website management staff.
